@@ -1,0 +1,6 @@
+Install miniconda:
+Intel
+curl -OL "https://repo.anaconda.com/miniconda/Miniconda3-py310_23.11.0-2-MacOSX-x86_64.sh"
+bash Miniconda3-py310_23.11.0-2-MacOSX-x86_64.sh -p ~/miniconda3 -b
+M1:
+curl -OL "https://repo.anaconda.com/miniconda/Miniconda3-py310_23.11.0-2-MacOSX-arm64.sh"
